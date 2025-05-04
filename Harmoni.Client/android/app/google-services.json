@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "45891953045",
+    "project_id": "harmoni-cb886",
+    "storage_bucket": "harmoni-cb886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45891953045:android:94a1cbeac67b9f47ad969c",
+        "android_client_info": {
+          "package_name": "com.example.harmoni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45891953045-gp1e4qkba1a05oh0dpke9cqgfag7kgt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harmoni",
+            "certificate_hash": "663a3e68f8bbc560c18f9fb968e193abb178783d"
+          }
+        },
+        {
+          "client_id": "45891953045-rrfsbifc0s0lob0ttpqgbhbd9sog0ugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnl5bxa2LESrrmFi_OfvIQq9cg242J4Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45891953045-rrfsbifc0s0lob0ttpqgbhbd9sog0ugl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "45891953045-pa0vmdc7h42t6406mt7qfiu0g7v2qr5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.harmoni"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
